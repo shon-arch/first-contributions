@@ -13,6 +13,7 @@
 - [Rutvij Dave](https://github.com/rutvijdave12)
 - [Vaibhav Aswal](https://github.com/VaibhavAswal)
 - [Amrin](https://github.com/Coderamrin)
+- shon-arch
 - [Kelly](https://github.com/kellyxavier)
 - [Shubh Chudasama](https://github.com/c-shubh) 
 - [Aarushi Jain](https://github.com/Aarushijain-06)
